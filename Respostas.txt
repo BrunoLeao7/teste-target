@@ -1,0 +1,24 @@
+1 - Código no repositório
+
+2 - Código no repositório
+
+3 - 77 (Código no repositório)
+
+4 - Próximo elemento de (a): 9
+    Próximo elemento de (b): 128
+    Próximo elemento de (c): 49
+    Próximo elemento de (d): 100
+    Próximo elemento de (e): 13
+    Próximo elemento de (f): 200
+    (Código no repositório)
+
+5 - a. Ligo o interruptor 1 por 20 minutos e desligo.
+    b. Ligo o interruptor 2 e deixo ligado.
+    c. Faço uma viagem para uma das salas. (Viagem 1)
+       1. Se a lâmpada estiver acesa o interruptor 2 controla esta lâmpada.
+       2. Se a lâmpada estiver apagada e quente, o interruptor 1 controla esta lâmpada.
+       3. Se a lâmpada estiver apagada e fria, o interruptor 3 controla esta lâmpada.
+    d. Agora que sei qual das salas é controlada por qual interruptor, eu desligo todos e ligo um dos que não foi testado.
+    e. Faço mais uma viagem uma sala diferente da visitada anteriormente. (Viagem 2)
+       1. Se estiver apagada, o interruptor desligado controla ela.
+       2. Se estiver acesa, o interruptor ligado controla ela.
